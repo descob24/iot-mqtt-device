@@ -5,7 +5,7 @@
 #define MQTT_USER "medDevicePrototype"
 #define MQTT_PASSWORD "PASSWORD"
 
-#define BROKER "192.168.1.7"
+#define BROKER "192.168.1.14"
 
 #define REPORT_FREQ 2000
 #define MAX_ALARM_FREQ 10000
